@@ -2,6 +2,7 @@
 .gradle
 /local.properties
 /.idea/workspace.xml
+/.idea/sonarlint
 /.idea/libraries
 .DS_Store
 /build
